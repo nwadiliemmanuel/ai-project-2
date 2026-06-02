@@ -1,0 +1,157 @@
+PERSONAL PORTIFOLIO PROMPT
+Hey bro, I am a Software Engineer in training help me build a professional landing page of a personal portfolio using only Html and Tailwind
+
+Let the name of the portfolio be Emmanuel
+
+
+---Menu section
+
+-Let the landing page have a Emmanuel logo on the top left hand corner
+-Let the logo:Emmanuel be creative
+-Menu bar should be colour fitting colur with sub titles  like Home, About, Skills, Contact 
+-Add subtle hovers and colou
+
+
+
+
+
+
+---
+
+Hero Section
+
+Below the menu bar let there be a hero section
+
+-The hero section should occupy 30% of the vertical length of the page and 1000% of the breathe of the page
+
+-The hero section should be partitioned into two
+
+-One side should display a  text with like 6 or more paragraph of person starting from his name with a view work button and a download resume (ATS) button below the text
+
+-The other part should display a image of young man 
+
+-Create a AST complaint Resume/CV and link it to the hero
+-Add a matching colour to make it look creative
+-Add subtle hovers
+-The text and spaces should be well aligned
+-Make it responsive to mobile, tablet and Desktop screen
+
+
+---Add about title:"About me"
+
+
+
+The About section should occupy 30% of the vertical length of the page and 1000% of the breathe of the page
+
+The About Section should be partitioned into two(There should be a header that says About Me
+
+An image on the left and a  paragraph on the right that tells about the person
+-Create something nice about me in the  paragraph
+
+-Below the paragraph let there be a button that says Read -More
+-Add a match fitting colour to the section
+-Make the section to be responsive
+-Add Subtle hover effects
+
+
+
+
+
+
+
+---
+
+Skills Section
+
+There should be a header that says Skills
+
+-The skill name at the top
+-The section should display skills as individual cards.
+-Each card should contain:
+The skill name at the top
+-A circular progress indicator showing skill proficiency percentage
+The percentage value displayed in the center of the circle
+Two statistics below the circle:
+-Proficiency percentage
+-Projects Complete percentage
+-A clean modern design with rounded corners and subtle shadows
+
+The circular progress bar should visually fill according to the percentage value.
+
+Example skills:
+
+HTML (95%)
+
+CSS (90%)
+
+JavaScript (85%)
+
+Tailwind CSS (90%)
+
+Git (80%)
+
+Github (75%)
+
+
+
+
+---
+
+Project Section
+
+The project should have 3 project cards displayed in responsive grid
+Each project card should contain:
+-project image
+-project title
+-problem the project was trying to solve
+-Design approach used
+-Development process
+-Delivering/testing process
+-Live demo button
+-GitHub button
+
+The Project are
+
+-Restaurant landing page
+
+-Personal portfolio website
+
+-Tailwind project
+
+
+---
+
+Contact Section
+
+The contact section should contain an input that says:
+
+-Your Name
+
+-Your Email
+
+-Your Message
+
+It should also contain a button below that says Send Message
+
+The Contact Section should contain an address, Email, Phone and social media links
+-Make it creative and nice
+
+
+---
+
+Footer Section
+
+-It should contain 2026 all right reserved and also  an email
+-With a background colour
+
+Make the text small
+
+think well and make it professional
+
+-Bro make it creative and professional
+
+
+-Use only Tailwind and Html
+
+
+show me codes.

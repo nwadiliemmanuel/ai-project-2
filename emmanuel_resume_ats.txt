@@ -1,0 +1,23 @@
+EMMANUEL [LAST NAME]
+Software Engineer | Full-Stack Developer | UI/UX Enthusiast
+
+CONTACT INFORMATION
+Email: nwadiliemmanuel@gmail.com
+Phone: +234 800 123 4567
+Location: Lagos, Nigeria
+LinkedIn: linkedin.com/in/emmanuel-dev
+GitHub: github.com/emmanuel-dev
+Portfolio: emmanuel.dev
+
+PROFESSIONAL SUMMARY
+Creative and detail-oriented Software Engineer in training with hands-on experience in HTML, CSS, JavaScript, 
+and Tailwind CSS. Passionate about building responsive, user-friendly web applications and continuously learning 
+modern web technologies. Strong problem-solving skills with a keen eye for design and user experience. Seeking 
+opportunities to contribute to innovative development teams while growing technical expertise.
+
+TECHNICAL SKILLS
+Frontend Development: HTML5 (95%), CSS3 (90%), JavaScript (85%), Tailwind CSS (90%)
+Version Control: Git (80%), GitHub (75%)
+Tools & Platforms: VS Code, Chrome DevTools, Figma, Netlify, Vercel
+Methodologies: Responsive Design, Mobile-First Approach, Agile, Component-Based Architecture
+Soft Skills: Problem Solving, Team Collaboration, Communication, Time Management
