@@ -1,1 +1,17 @@
 @import "tailwindcss";
+
+
+@theme{
+  
+     --color-emma-100:#ede9fe;
+      --color-emma-200: #ddd6fe: 
+       --color-emma-300:#c4b5fd;
+        --color-emma-400:#a78bfa;
+         --color-emma-500:#8b5cf6;
+          --color-emma-600:#7c3aed;
+           --color-emma-700:#6d28d9;
+            --color-emma-800:#5b21b6;
+             --color-emma-900:#4c1d95;
+              --color-emma-950:#2e1065;
+              
+}
