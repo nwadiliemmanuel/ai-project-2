@@ -238,9 +238,6 @@
   .relative {
     position: relative;
   }
-  .sticky {
-    position: sticky;
-  }
   .-inset-4 {
     inset: calc(var(--spacing) * -4);
   }
